@@ -1,0 +1,45 @@
+﻿<Título>
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em front end, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de fornt-end nerd, e que tenha algum trocadilho nerd no nome.
+O podcast vai falar sobre dicas e novidades sobre o mundo do front-end e o que está acontecendo no mercado
+
+[Regras]
+> O nome deve ser enxuto, um nome e um substituto
+> O nometenha algum trocadilho nerd com nomes de franquias conhecidas comoHarry Potter, Star Wars e Senhor dos Anéis.
+> O nome deve conter alguma palavra forte que remeta à front-end
+
+[Regras Negativas]
+> Não quero nomes que contenha palavras em inglês
+> Não quero que utilize nenhuma das palavras nessa lista; Java Script, programador
+> Não utilizar a palavra front-end no nome nem qualquer variação dela
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<CAPA>
+~ GERADA COM DALL-E ~
+Um podcaster jovem com idade de mais ou menos 34 anos, com cabelos curtos, olhos castanhos médios, feição meio oriental meio europeu, cabelos pretos com tons de loiro, pele morena, nariz fino, traços totalmente realistas como em uma fotografia, efeito bouquet com luzes da noite de fundo, iluminação global, e raytracing, resolução alta, cores reais, processamento em 16k, luz cinematica, configurações de camera (f/8, 1/100s, ISO 100)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<ROTEIRO>
+
+Voçê é um roteirista de um podcast bem famoso, crie um roteiro para um programa chamado O "Código de Hogwarts - Magia e Tecnologia no Front-End" focado em Front-end onde, será discutido CSS e suas nuances em diversos aspectos do design tanto de páginas web como de aplicativos; o programa também fala sobre as novidades no ramo. O público alvo é iniciante na área.
+
+O formato do roteiro deve ser
+[INTRODUÇÂO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan;
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidades de CSS;
+- no bloco [CURIOSIDADE 2] fale sobre uma ferramenta para front-end;
+- no bloco [FINALIZAÇÃO] substitua por uma despedida legal com o final 'Eu sou o Hudmetal Winchester 69' e esse foi o 'Código de Hogwarts' dessa semana;
+- use termos de fácil explicação;
+- O podcast vai ser apresentado somente por uma pessoa, chamada Hudmetal69;
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
